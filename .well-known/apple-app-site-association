@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "Q493HNVQVS.com.masahiro.harmonyTracker",
+        "paths": ["/join/*"]
+      }
+    ]
+  }
+}
